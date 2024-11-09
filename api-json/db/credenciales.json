@@ -1,0 +1,24 @@
+{
+  "userId": "ruben",
+  "userPass": "123243",
+  "adminId": "sanchez",
+  "adminPass": "q2333",
+  "users": [
+    {
+      "username": "1214",
+      "password": "3223"
+    },
+    {
+      "username": "gaas",
+      "password": "12"
+    },
+    {
+      "username": "m312",
+      "password": "4213"
+    },
+    {
+      "username": "taty",
+      "password": "12234"
+    }
+  ]
+}
